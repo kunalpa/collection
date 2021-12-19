@@ -1,2 +1,2 @@
 # Portfolio
-A collection of my computer science projects from class and personal exploration.
+A collection of my computer science projects from my UNC curricula and personal explorations.
