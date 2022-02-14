@@ -9,9 +9,12 @@ from time import sleep
 from ArrSorts import ArrSorts
 
 def main():  # gathers user input and redirects to corresponding functions
+    
+#     If you would like to collect data on the entire S&P500, comment out the first line. -- Beware, it takes about ten minutes to pull all the data
 #     file = "data/S&P500.csv"
     file = "data/small.csv"
 #     file = "data/tiny.csv"
+
     nodes = []
     print('Current file: ' + file)
     while True:
